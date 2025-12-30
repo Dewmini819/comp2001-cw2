@@ -18,7 +18,7 @@ A FastAPI-based ProfileService microservice developed for COMP2001 coursework.
 
 
 
-\## How to run locally
+\## Run locally
 
 ```bash
 
